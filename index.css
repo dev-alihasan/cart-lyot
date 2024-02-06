@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
 body {
   margin: 0;
   line-height: normal;
@@ -201,7 +202,7 @@ body {
   top: 0.44rem;
   left: 9.25rem;
   font-size: var(--font-size-21xl);
-  font-family: var(--font-preahvihear);
+  font-family: var(--font-poppins);
   z-index: 3;
 }
 .chevron-down-group {
